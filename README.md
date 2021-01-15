@@ -6,7 +6,11 @@
   - 큰 수의 법칙
   - 숫자 카드 게임
   - 1이 될 때까지
-### 2. 구현
+### 2. [구현](https://github.com/honghyelim/Codig_Test/blob/main/implementation.ipynb)
+  - 상하좌우
+  - 시각
+  - 왕실의 나이트
+  - 게임 개발
 ### 3. DFS/BFS
 ### 4. 정렬
 ### 5. 이진 탐색
