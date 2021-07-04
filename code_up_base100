@@ -1,5 +1,10 @@
 ## 기초-입출력
 ### 6019: 연월일 입력받아 순서 바꿔 출력하기
 
-a = 
+a = [x for x in input.strip().split(':')]
+print(a[2]+'-'+a[1]+'-'+a[0])
+
+date = input().split('.')
+date.reverse()
+print('-'.join(date))
 
